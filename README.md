@@ -82,17 +82,10 @@ The application can generate insights like:
 * Emoji usage statistics
 * Message activity over time
 
----
+## 🚀 Live Demo
 
-## 🎯 Future Improvements
-
-* Sentiment Analysis
-* NLP-based chat insights
-* Interactive dashboards
-* User-level word cloud
-* Advanced chat statistics
-
----
+Try the app here
+https://whatsappchatanalysisvbhai-gl7zydhm5vjp3zoqpzo76f.streamlit.app/
 
 ## 👨‍💻 Author
 
