@@ -21,7 +21,7 @@ def preprocessor(data):
     user = []
     messages = []
     for message in df["user_message"]:
-        entry = re.split('([\w\W]+?):\s', message)
+        entry = re.split(r'([\w\W]+?):\s', message)
         if entry[1:]:
             user.append(entry[1])
             messages.append(entry[2])
@@ -39,4 +39,5 @@ def preprocessor(data):
     df["day_name"] = df["date"].dt.day_name()
     df["minute"] = df["date"].dt.minute
     return df
+
 
