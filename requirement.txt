@@ -1,6 +1,6 @@
 streamlit
+pandas
 matplotlib
-urlextract
 wordcloud
 emoji
-pandas
+urlextract
