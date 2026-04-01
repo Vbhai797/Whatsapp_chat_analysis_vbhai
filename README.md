@@ -85,8 +85,7 @@ The application can generate insights like:
 ## 🚀 Live Demo
 
 Try the app here
-https://whatsappchatanalysisvbhai-gl7zydhm5vjp3zoqpzo76f.streamlit.app/
-
+https://whatsapp-chat-analysis-vbhai797.onrender.com
 ## 👨‍💻 Author
 
 **Vivek Yadav**
